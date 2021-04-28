@@ -4,7 +4,7 @@ I'm Henri, a junior developer/data scientist looking for work in an unforgiving 
 
 - 🔭 I'm currently working on algos and lua
 - 🌱 I'm currently learning lua, python (advanced)
-- 👯 I'm looking to collaborate on python/pytorch/Django projects
+- 💪 I'm looking to collaborate on python/pytorch/Django projects
 - 📫 How to reach me: hvandersleyen@gmail.com
 - 🌐 Come visit me on my [website](http://www.neuraldomains.com:8000)
 
