@@ -1,8 +1,8 @@
 ### Hey there 👋
 
-I'm Henri, a junior developer/data scientist looking for work in an unforgiving job market for junior dev. Ever since I moved from Windows to Linux, I  fell in love with open source and how people come together to create something unique.
+I'm Henri, a junior fullstack developer/data analyst. Ever since I moved from Windows to Linux, I  fell in love with open source and how people come together to create something unique. I tried to automate anything that entails repetitions through bash scripts.
 
-- 🔭 I'm currently working on web dev
+- 🔭 I'm currently working on web dev and in particular the Vue framework
 - 🌱 I'm currently learning graphql, typeOrm, typescript, express, Vue, html, css
 - 💪 I'm looking to collaborate on beginner typescript/vue projects
 - 📫 How to reach me: hvandersleyen@gmail.com
