@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Henri, a junior fullstack developer/data analyst. Ever since I moved from Windows to Linux, I  fell in love with open source and how people come together to create something unique. I tried to automate anything that entails repetitions through bash scripts.
+I'm Henri, a junior fullstack developer/data analyst. Ever since I moved from Windows to Linux, I  fell in love with open source and how people come together to create something unique. I try to automate anything that entails repetitions through bash scripts.
 
 - 🔭 I'm currently working on web dev and in particular the Vue framework
 - 🌱 I'm currently learning graphql, typeOrm, typescript, express, Vue, html, css
