@@ -1,8 +1,9 @@
 I'm Henri, a Fullstack developer. Ever since I moved from Windows to Linux, I  fell in love with open source and how people come together to create something unique. I automate anything that entails repetitions through bash scripts or rust.
 
 **你好，
-我叫 Henri 和我是很高兴认识你。如果你最喜欢我的编码够哦**
+我叫 Henri 和我是很高兴认识你。如果你最喜欢我的编码够哦。**
 
+Je parle Français aussi, et j'adorerai participer et contribuer dans des projets de code source libres. Sinon, en vivant dans un milieu Anglophone j'ai malheureusement peu de personnes à qui je peux parler Français et j'aimerai que l'on parle ensemble.
 
 - 📫 How to reach me: hvandersleyen@duck.com
 - Interrested in my work: feel free to reach to me
