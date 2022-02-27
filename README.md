@@ -1,4 +1,8 @@
-I'm Henri, a Fullstack developer. Ever since I moved from Windows to Linux, I  fell in love with open source and how people come together to create something unique. I automate anything that entails repetitions through bash scripts or rust.
+Welcome and thank you for visiting! :wave:
+ 
+I'm Henri, a Fullstack developer who left his previous employment tenure of 13 years in the Canadian Gov to pursue a career in tech. Once I learned to automate my previous job with the few tools (excel VBA) at my disposal, I couldn't go back to the old way labor intensive and slow government way.   
+
+Ever since I moved from Windows to Linux, I  fell in love with open source and how people come together to create something unique. I automate anything that entails repetitions through bash scripts or rust. 
 
 **你好，
 我叫 Henri 和我是很高兴认识你。如果你最喜欢我的编码够哦。**
@@ -23,4 +27,9 @@ When not coding, I spend time with my lovely wife, and punish my body through ex
 ## Tools
 
 ![Neovim](https://img.shields.io/badge/-Neovim-%57A143?logo=Neovim&logoColor=%23ffffff)
+![Tmux](https://img.shields.io/badge/-Tmux-%1BB91F?logo=Tmux&logoColor=%23ffffff)
+![Docker](https://img.shields.io/badge/-Docker-%2496ED?logo=Docker&logoColor=%23ffffff)
+![Git](https://img.shields.io/badge/-Git-%F05032?logo=Git&logoColor=%23ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?logo=vite&logoColor=%23ffffff)
+
+[//]: # (Comment)
