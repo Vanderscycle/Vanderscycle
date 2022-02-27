@@ -21,15 +21,15 @@ When not coding, I spend time with my lovely wife, and punish my body through ex
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?logo=eslint)
-![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
-![Svelte](https://img.shields.io/badge/-Svelte-61DAFB?logo=svelte&logoColor=%23ffffff)
+![Svelte](https://img.shields.io/badge/-Svelte-%61DAFBFF?logo=svelte&logoColor=%23ffffff&labelColor=%61DAFB)
 
 ## Tools
 
 ![Neovim](https://img.shields.io/badge/-Neovim-%57A143?logo=Neovim&logoColor=%23ffffff)
-![Tmux](https://img.shields.io/badge/-Tmux-%1BB91F?logo=Tmux&logoColor=%23ffffff)
-![Docker](https://img.shields.io/badge/-Docker-%2496ED?logo=Docker&logoColor=%23ffffff)
-![Git](https://img.shields.io/badge/-Git-%F05032?logo=Git&logoColor=%23ffffff)
-![Vite](https://img.shields.io/badge/-Vite-%23646CFF?logo=vite&logoColor=%23ffffff)
+![Tmux](https://img.shields.io/badge/-Tmux-%1BB91F?logo=Tmux&logoColor=%23ffffff&color=%1BB91F)
+![Docker](https://img.shields.io/badge/-Docker-%2496ED?logo=Docker&logoColor=%23ffffff&color=%2496ED)
+![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
+![Vite](https://img.shields.io/badge/-Vite-%23646CFF?logo=vite&logoColor=%23ffffff&color=%23646CFF)
+![Conda](https://img.shields.io/badge/-miniconda-%44A833FF?logo=anaconda&logoColor=%23ffffff&color=%44A833FF)
 
 [//]: # (Comment)
