@@ -1,6 +1,6 @@
 Welcome and thank you for visiting! :wave:
  
-I'm Henri, a Fullstack developer who left his previous employment of 13 years in the Canadian Gov to pursue a career in tech. Once I learned how to automate my job with the few tools (e.g. excel VBA) at my disposal, I couldn't go back to the old, inefficient and slow government way, if that's how you roll then more power to you.   
+I'm Henri, a Fullstack developer who left his previous employment of 13 years in the Canadian Gov to pursue a career in tech. Once I learned how to automate my job with the few tools (e.g. excel VBA) at my disposal, I couldn't go back to the old, inefficient and slow government way. If that's how you roll then more power to you.   
 
 Ever since I moved from Windows to Linux, I  fell in love with open source and how people come together to create something unique. I automate anything that entails repetitions through bash scripts or rust. 
 
@@ -31,5 +31,6 @@ When not coding, I spend time with my lovely wife, and punish my body through ex
 ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?logo=vite&logoColor=%23ffffff&color=%23646CFF)
 ![Conda](https://img.shields.io/badge/-miniconda-%44A833FF?logo=anaconda&logoColor=%23ffffff&color=%44A833FF)
+
 
 [//]: # (Comment)
