@@ -1,6 +1,7 @@
 Welcome and thank you for visiting! :wave:
  
-I'm Henri, a Fullstack developer who left his previous employment of 13 years in the Canadian Gov to pursue a career in tech. Once I learned how to automate my job with the few tools (e.g. excel VBA) at my disposal, I couldn't go back to the old, inefficient and slow government way. If that's how you roll then more power to you.   
+I'm Henri, a Fullstack developer who left his previous employment of 13 years in the Canadian 
+navyto pursue a career in tech. Once I learned how to automate my job with the few tools (e.g. excel VBA) at my disposal, I couldn't go back to the old, inefficient and slow government way. If that's how you roll then more power to you.   
 
 Ever since I moved from Windows to Linux, I  fell in love with open source and how people come together to create something unique. I automate anything that entails repetitions through bash scripts or rust. 
 
@@ -10,6 +11,7 @@ Ever since I moved from Windows to Linux, I  fell in love with open source and h
 Je parle Français aussi, et j'adorerai participer et contribuer dans des projets de code source libres. Sinon, en vivant dans un milieu Anglophone j'ai malheureusement peu de personnes à qui je peux parler Français et j'aimerai que l'on parle ensemble.
 
 - 📫 How to reach me: hvandersleyen@duck.com
+- [My website](https://professional-website-one.vercel.app/) (under-construction)
 - Interrested in my work: feel free to reach to me
 
 When not coding, I spend time with my lovely wife, and punish my body through exercises.
