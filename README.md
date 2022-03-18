@@ -3,7 +3,8 @@ Welcome and thank you for visiting! :wave:
 I'm Henri, a Fullstack developer who left his previous employment of 13 years in the Canadian 
 Navy to pursue a career in tech. Once I learned how to automate my job with the few tools (e.g. excel VBA) at my disposal, I couldn't go back to the old, inefficient and slow government way. If that's how you roll then more power to you.   
 
-Ever since I moved from Windows to Linux, I  fell in love with open source and how people come together to create something unique. I automate anything that entails repetitions through bash scripts or rust. 
+Ever since I moved from Windows to Linux, I  fell in love with open source and how people come together to create something unique. I automate anything that entails repetitions through scripts. 
+
 
 **你好，
 我叫 Henri。如果你喜欢我的编码，欢迎随时联系。**
@@ -11,6 +12,7 @@ Ever since I moved from Windows to Linux, I  fell in love with open source and h
 Je parle Français aussi, et j'adorerai participer et contribuer dans des projets de code source libres. Sinon, en vivant dans un milieu Anglophone j'ai malheureusement peu de personnes à qui je peux parler Français et j'aimerai que l'on parle ensemble.
 
 - 📫 How to reach me: hvandersleyen@duck.com
+- What I am focusing on right now: mastering go
 - [My website](https://professional-website-one.vercel.app/) (under-construction)
 - Interrested in my work: feel free to reach to me
 
