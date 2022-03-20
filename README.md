@@ -7,7 +7,7 @@ Ever since I moved from Windows to Linux, I  fell in love with open source and h
 
 
 **你好，
-我叫 Henri。如果你喜欢我的编码，欢迎随时联系。**
+我叫 Henri。如果你喜欢我的代码，欢迎随时联系。**
 
 Je parle Français aussi, et j'adorerai participer et contribuer dans des projets de code source libres. Sinon, en vivant dans un milieu Anglophone j'ai malheureusement peu de personnes à qui je peux parler Français et j'aimerai que l'on parle ensemble.
 
