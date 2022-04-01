@@ -11,7 +11,7 @@ Ever since I moved from Windows to Linux, I  fell in love with open source and h
 
 Je parle Français aussi, et j'adorerai participer et contribuer dans des projets de code source libres. Sinon, en vivant dans un milieu Anglophone j'ai malheureusement peu de personnes à qui je peux parler Français et j'aimerai que l'on parle ensemble.
 
-- 📫 How to reach me: hvandersleyen@duck.com
+- 📫 How to reach me: Henri-Vandersleyen@protonmail.com
 - What I am focusing on right now: mastering go
 - [My website](https://professional-website-one.vercel.app/) (under-construction)
 - Interrested in my work: feel free to reach to me
