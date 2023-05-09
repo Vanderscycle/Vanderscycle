@@ -1,6 +1,6 @@
 Welcome and thank you for visiting! :wave:
  
-Hey, I'm Henri, a passionate DevOps engineer with a background in full-stack web development. After serving 13 years in the Canadian Navy, I discovered my love for automation and efficiency, and I haven't looked back since.
+Hey, I'm Henri, a passionate DevOps engineer with a background in full-stack web development. After serving 13 years in the Canadian Navy, I discovered my love for automation and efficiency.
 
 Moving from Windows to Linux opened my eyes to the power of open source and collaboration, and I've been hooked ever since. My goal is to automate anything that involves repetition, from simple scripts to complex infrastructure as code.
 
