@@ -15,7 +15,6 @@ Je parle Français aussi, et j'adorerai participer et contribuer dans des projet
 - [My website](https://me.vandersleyen.dev)
 
 
-
 ## FullStack Tools/Languages/Frameworks
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3)
@@ -39,7 +38,8 @@ Je parle Français aussi, et j'adorerai participer et contribuer dans des projet
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=Raspberry-Pi) (I have a RPI HomeLab)
 ## Favorite editor
 ![Emacs](https://img.shields.io/badge/-Emacs-%237F5AB6?logo=gnu-emacs&logoColor=white)
-
+## Prefered Linux flavor
+![Nixos](https://img.shields.io/badge/-NixOS-%235277C3?logo=nixos&logoColor=ffffff)
 ##  Let's Connect
 <p align="center">
 	<a href="https://www.linkedin.com/in/henri-vandersleyen-a25a8312b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>	
