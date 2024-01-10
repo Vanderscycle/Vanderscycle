@@ -29,6 +29,7 @@ Je parle Français aussi, et j'adorerai participer et contribuer dans des projet
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?logo=docker&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?logo=kubernetes&logoColor=ffffff)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-%233DCE9A?logo=argocd&logoColor=ffffff)
+![Terraform](https://img.shields.io/badge/-Terraform-%23007ACC?logo=terraform&logoColor=ffffff)
 ![Helm](https://img.shields.io/badge/-Helm-%230F1689?logo=helm&logoColor=white)
 ![Kustomize](https://img.shields.io/badge/-Kustomize-%230075A8?logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
