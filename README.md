@@ -12,7 +12,7 @@ I thrive in the intersection between full-stack web development and the DevOps w
 Je parle Français aussi, et j'adorerai participer et contribuer dans des projets de code source libres. Sinon, en vivant dans un milieu Anglophone j'ai malheureusement peu de personnes à qui je peux parler Français et j'aimerai que l'on parle ensemble.
 
 - 📫 How to reach me: Henri-Vandersleyen@protonmail.com
-- [My website](https://me.vandersleyen.dev)
+- [My website](https://home.vandersleyen.xyz)
 
 
 ## FullStack Tools/Languages/Frameworks
