@@ -1,3 +1,7 @@
+Moved to [codeberg](https://codeberg.org/temujin)
+
+---
+
 Welcome and thank you for visiting! :wave:
  
 Hey, I'm Henri, a passionate DevOps engineer with a background in full-stack web development. After serving 13 years in the Canadian Navy, I discovered my love for automation and efficiency.
